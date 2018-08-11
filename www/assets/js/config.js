@@ -9,8 +9,7 @@ waldayu.transducers["gitksan_compare"] = (function() {
             return correspondences[a];
         });
     };
-})();
-var config = {
+})();var config = {
     "L1": {
         "name": "Gitksan",
         "underlying": "",
